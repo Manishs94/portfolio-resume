@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name": "Manish Sondhi",
+    "occupation": "Software Engineer",
+    "description": "Full Stack React & Angular developer",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Manish! I've been coding for about 5 years now. As a Full Stack developer I've worked with startup and large corperations to help build & scale their companies. Along the journey I realized my passion as becoming an Software Engineer.",
+    "contactmessage": "",
+    "email": "manishsondhi94@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "8th ave",
+      "city": "USA",
+      "state": "Devosphere",
+      "zip": "W3B D3V"
+    },
+    "website": "https://www.manishsondhi.com/",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/manish.sondhi1/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/manish-sondhi-2b3bb2217/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/manishsondhi_/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Manishs94/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Southern New Hampshire University",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduate": "May 2022",
+        "description": "Graduated with a great learning experience in Information Technology"
+      },
+
+      {
+        "school": "New Jersey Institute of Technology",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2018",
+        "description": "Graduated with a great learning experience"
+      }
+    ],
+    "work": [
+      {
+        "company": "Idexcel",
+        "title": "Full Stack Software Developer",
+        "years": "Feb 2022 - Present",
+        "description": "I am a Full Stack Developer working on React and Node.Js."
+      },
+      {
+        "company": "Upwork - Freelancer",
+        "title": "Full Stack Software Developer",
+        "years": "December 2018 - Present",
+        "description": "I work as a Freelancer to help and solve clients with their project and the part they need me to get done for them."
+      },
+      {
+        "company": "Bank of America ",
+        "title": "Software Engineer",
+        "years": "Feb 2021 - May 2021",
+        "description": "I work as a Full-Stack Angular Developer."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Twitter Clone",
+        "category": "Social Media",
+        "image": "Twitter.jpg",
+        "url": "https://twitter-clone-83a92.firebaseapp.com/?"
+      },
+      {
+        "title": "Animations",
+        "category": "Angular Animation Application",
+        "image": "Animations.jpg",
+        "url": "https://animations-a7d93.web.app"
+      },
+      {
+        "title": "KanbanFire",
+        "category": "Angular Todo Application",
+        "image": "KanbanFire.jpg",
+        "url": "https://kanban-fire-be71d.web.app"
+      },
+      {
+        "title": "Ng-Video-Game",
+        "category": "Angular Gaming Application",
+        "image": "Ng-Video-Game.jpg",
+        "url": "https://ng-video-game-db.web.app"
+      },
+      {
+        "title": "My Budget Planner",
+        "category": "Budget Planner",
+        "image": "Budget-Planner.jpg",
+        "url": "https://61f0efec215e813c8ff08265--hardcore-roentgen-8b2667.netlify.app/"
+      },
+      {
+        "title": "Todo Application",
+        "category": "React todo application",
+        "image": "React-todo.png",
+        "url": "https://todo-cda1b8.netlify.app/"
+      }
+    ]
+  },
+  "Quote": {
+    "Quote": [
+      {
+        "text": "Work harder than the other person in the room no matter how hard it is get the work done and give everything you have in you toward the work you really love.",
+        "user": ""
+      }
+    ]
+  }
+}
