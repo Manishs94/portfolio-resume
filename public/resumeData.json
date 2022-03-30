@@ -28,6 +28,11 @@
         "className": "fa fa-linkedin"
       },
       {
+        "name": "handshake",
+        "url": "https://snhu.joinhandshake.com/stu/users/22835599",
+        "className": "fa fa-handshake"
+      },
+      {
         "name": "instagram",
         "url": "https://www.instagram.com/manishsondhi_/?hl=en",
         "className": "fa fa-instagram"
@@ -58,13 +63,13 @@
     ],
     "work": [
       {
-        "company": "Cync-los",
+        "company": "CYNC Software",
         "title": "Full Stack Software Developer",
         "years": "Feb 2022 - Present",
         "description": "I am a Full Stack Developer working on React and Node.Js."
       },
       {
-        "company": "Upwork - Freelancer",
+        "company": "Freelance",
         "title": "Full Stack Software Developer",
         "years": "December 2018 - Present",
         "description": "I work as a Freelancer to help and solve clients with their project and the part they need me to get done for them."
