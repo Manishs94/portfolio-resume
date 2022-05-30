@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Manish Sondhi",
-    "occupation": "Software Engineer",
+    "occupation": "UI/UX Designer & Software Engineer",
     "description": "Full Stack React & Angular developer",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Manish! I've been coding for about 2 to 3 years now. As a Full Stack developer I've worked with startup and large corperations to help build & scale their companies. Along the journey I realized my passion as becoming an Software Engineer.",
@@ -50,22 +50,15 @@
       {
         "school": "Southern New Hampshire University",
         "degree": "Bachelor's Degree, Information Technology",
-        "graduate": "May 2022",
+        "graduated": "May 2022",
         "description": "Graduated with a great learning experience in Information Technology"
-      },
-
-      {
-        "school": "New Jersey Institute of Technology",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2018",
-        "description": "Graduated with a great learning experience"
       }
     ],
     "work": [
       {
-        "company": "CYNC Software",
-        "title": "Full Stack Software Developer",
-        "years": "Feb 2022 - Present",
+        "company": "Cync Software",
+        "title": "UI/UX & Full Stack Software Developer",
+        "years": "Febuary 2022 - Present",
         "description": "I am a Full Stack Developer working on React and Node.Js."
       },
       {
@@ -77,8 +70,14 @@
       {
         "company": "Bank of America ",
         "title": "Software Engineer",
-        "years": "Feb 2021 - May 2021",
-        "description": "I work as a Full-Stack Angular Developer."
+        "years": "Febuary 2021 - May 2021",
+        "description": " I worked as a Full-Stack Angular Developer."
+      },
+      {
+        "company": "TD Bank ",
+        "title": "Teller, Customer Service Representative (CSR)",
+        "years": "January 2014 - November 2018",
+        "description": "Cash handling through withdrawals, deposits, and payments. Awareness of bank location’s vulnerability to fraud."
       }
     ],
     "skills": [
