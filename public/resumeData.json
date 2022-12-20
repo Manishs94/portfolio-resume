@@ -1,12 +1,12 @@
 {
   "main": {
     "name": "Manish Sondhi",
-    "occupation": "UI/UX Designer & Software Engineer",
-    "description": "Full Stack React & Angular developer",
+    "occupation": "UI/UX Engineer & Software Engineer",
+    "description": "I am a User Experience Designer and Full Stack React & Angular Developer",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Manish! I've been coding for about 2 to 3 years now. As a Full Stack developer I've worked with startup and large corperations to help build & scale their companies. Along the journey I realized my passion as becoming an Software Engineer.",
+    "bio": "Hi there! I am Manish! I've worked with startup and large corperations to help build & scale their companies. Along the journey I realized my passion as becoming an UI/UX Engineer and Software Engineer.",
     "contactmessage": "",
-    "email": "manishsondhi94@gmail.com",
+    "email": "ManishSondhi94@gmail.com",
     "phone": "",
     "address": {
       "street": "8th ave",
@@ -57,27 +57,21 @@
     "work": [
       {
         "company": "Cync Software",
-        "title": "UI/UX & Full Stack Software Developer",
+        "title": "UI/UX Engineer & Full Stack Software Engineer",
         "years": "Febuary 2022 - Present",
-        "description": "I am a Full Stack Developer working on React and Node.Js."
-      },
-      {
-        "company": "Freelance",
-        "title": "Full Stack Software Developer",
-        "years": "April 2019 - Present",
-        "description": "I work as a Freelancer to help and solve clients with their project and the part they need me to get done for them."
+        "description": "Design, develop, test and maintain a website using HTML5, CSS3, JavaScript, React.JS, and other programming languages. Involve yourself in all aspects of design, development, and testing daily. Work with our visual designers to construct and build a website, including taking wireframes and converting them into code. Ascertain that the technical and developmental parts of your mission are properly handled. Designers will be responsible for creating and maintaining high-quality digital user experiences for the marketing team, internal and external designers, and other stakeholders. The candidate must be able to produce the enabling automated toolkits to test and deploy the systems they develop, write sophisticated code, work with cloud based environments, and deal with immutable environments."
       },
       {
         "company": "Bank of America ",
         "title": "Software Engineer",
         "years": "Febuary 2021 - May 2021",
-        "description": " I worked as a Full-Stack Angular Developer."
+        "description": "Developed and maintained applications using Angular. Connected to On-Premises resources like API and Database using VPC connection. Involved in the Software Development Life Cycle (SDLC) Phases like Requirement Analysis, Implementation and estimating the timelines for the project. Developed dynamic responsive Web Application by integrating Angular11 with Bootstrap which is further integrated with Web Services."
       },
       {
         "company": "TD Bank ",
         "title": "Teller, Customer Service Representative (CSR)",
         "years": "January 2014 - November 2018",
-        "description": "Cash handling through withdrawals, deposits, and payments. Awareness of bank location’s vulnerability to fraud."
+        "description": "I was responsible for ensuring that client assets are protected by opening and closing accounts in compliance with established operational rules. They are also responsible for managing and maintaining client account information using the new accounts system database. The Tellers aggressively cross-sell new and existing items and services to present and future clients, and use marketing strategies to establish connections."
       }
     ],
     "skills": [
