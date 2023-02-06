@@ -4,7 +4,7 @@
     "occupation": "UI/UX Engineer & Software Engineer",
     "description": "I am a User Experience Designer and Full Stack React & Angular Developer",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Manish! I've worked with startup and large corperations to help build & scale their companies. Along the journey I realized my passion as becoming an UI/UX Engineer and Software Engineer.",
+    "bio": "Hi there! I am Manish! I've worked with startup and large corperations to help build & scale their companies. Along the journey I realized my passion as becoming an UI/UX Engineer & Software Engineer.",
     "contactmessage": "",
     "email": "ManishSondhi94@gmail.com",
     "phone": "",
@@ -15,32 +15,27 @@
       "zip": "W3B D3V"
     },
     "website": "https://www.manishsondhi.com/",
-    "resumedownload": "",
+    "resumedownload": "file:///Users/manishsondhi/Documents/Manish%20Sondhi%20Resume-Official.pdf",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/manish.sondhi1/",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/manish-sondhi-2b3bb2217/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "handshake",
-        "url": "https://snhu.joinhandshake.com/stu/users/22835599",
-        "className": "fa fa-handshake"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/manishsondhi_/?hl=en",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
         "url": "https://github.com/Manishs94/",
         "className": "fa fa-github"
+      },
+      {
+        "name": "",
+        "url": "",
+        "className": ""
+      },
+      {
+        "name": "",
+        "url": "",
+        "className": ""
       }
     ]
   },
@@ -149,7 +144,19 @@
     "Quote": [
       {
         "text": "Work harder than the other person in the room no matter how hard it is get the work done and give everything you have in you toward the work you really love.",
-        "user": ""
+        "user": "Manish Sondhi"
+      },
+      {
+        "text": "I’m not a great programmer; I’m just a good programmer with great habits.",
+        "user": "Kent Beck"
+      },
+      {
+        "text": "Real programmers can write assembly code in any language.",
+        "user": "Larry Wall"
+      },
+      {
+        "text": "People ignore design that ignores people.",
+        "user": "Frank Chimero"
       }
     ]
   }
