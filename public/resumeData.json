@@ -161,6 +161,12 @@
         "category": "HTML, CSS, & JavaScript",
         "image": "Netflix-Mobile-Navigation.jpg",
         "url": "https://netflix-mobile-navigation-1.netlify.app"
+      },
+      {
+        "title": "Split Landing Page",
+        "category": "HTML, CSS, & JavaScript",
+        "image": "Split-Landing-Page.jpg",
+        "url": "https://split-landing-page-1.netlify.app"
       }
     ]
   },
