@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Manish Sondhi",
-    "occupation": "UI/UX Engineer & Software Engineer",
-    "description": "I am a User Experience Designer and Full Stack React & Angular Developer",
+    "occupation": "UI/UX Engineer",
+    "description": "I am a User Experience Designer and a Front-end Developer",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Manish! I've worked with startup and large corperations to help build & scale their companies. Along the journey I realized my passion as becoming an UI/UX Engineer & Software Engineer.",
+    "bio": "Hi there! I am Manish! I've worked with startup and large corperations to help build & scale their companies. Along the journey I realized my passion as becoming an UI/UX Engineer.",
     "contactmessage": "",
     "email": "ManishSondhi94@gmail.com",
     "phone": "",
@@ -52,15 +52,15 @@
     "work": [
       {
         "company": "Cync Software",
-        "title": "UI/UX Engineer & Full Stack Software Engineer",
+        "title": "UI/UX Engineer",
         "years": "Febuary 2022 - Present",
-        "description": "Design, develop, test and maintain a website using HTML5, CSS3, JavaScript, React.JS, and other programming languages. Involve yourself in all aspects of design, development, and testing daily. Work with our visual designers to construct and build a website, including taking wireframes and converting them into code. Ascertain that the technical and developmental parts of your mission are properly handled. Designers will be responsible for creating and maintaining high-quality digital user experiences for the marketing team, internal and external designers, and other stakeholders. The candidate must be able to produce the enabling automated toolkits to test and deploy the systems they develop, write sophisticated code, work with cloud based environments, and deal with immutable environments."
+        "description": "Keep abreast of industry trends and advancements, make a list of potential users, ensure digital user-specific experiences, use flowcharts, graphic designs, storyboards, and site maps, provide direction on UX research, defend against competitors, test user interface components, create and execute solutions, produce automated toolkits, and utilize metrics to determine viability of new projects. Regularly evaluate their own and team's work processes, produce design specifications, unit testing, and technical documentation, formulating and envisioning a thorough UI/UX design approach, creating UI components and tools, testing user interface (UI) components, working together to create and deliver custom digital user experiences, giving suggestions and direction for using UX research methodology and testing procedures, adhering to typographic and graphic design standards, developing and maintaining applications using JSX, React.JS, Micro-Frontend, React-router, Forms, Events, Keys, Router, and Jest. Involve yourself in all aspects of design, development, and testing daily. Test the responsiveness of the program for the end user."
       },
       {
         "company": "Bank of America ",
-        "title": "Software Engineer",
+        "title": "UI/UX Engineer",
         "years": "Febuary 2021 - May 2021",
-        "description": "Developed and maintained applications using Angular. Connected to On-Premises resources like API and Database using VPC connection. Involved in the Software Development Life Cycle (SDLC) Phases like Requirement Analysis, Implementation and estimating the timelines for the project. Developed dynamic responsive Web Application by integrating Angular11 with Bootstrap which is further integrated with Web Services."
+        "description": "Creating rapid prototypes to validate design concepts, leading/facilitating design activities and prototype workshops, talking to users and other stakeholders to gather needs, guiding conversations to develop and validate UI concepts and metaphors, working with front-end UI analysis, user/task analysis, and interviewing, using Adobe XD to build high-fidelity prototypes based on user demands and business objectives, working closely with development teams to make sure designs are technically feasible within authorized frameworks, and supporting the execution of UI concepts and design approaches."
       },
       {
         "company": "TD Bank ",
@@ -167,6 +167,12 @@
         "category": "HTML, CSS, & JavaScript",
         "image": "Split-Landing-Page.jpg",
         "url": "https://split-landing-page-1.netlify.app"
+      },
+      {
+        "title": "Split Landing Page",
+        "category": "HTML, CSS, & JavaScript",
+        "image": "",
+        "url": "https://cosmic-croissant-d99135.netlify.app"
       }
     ]
   },
