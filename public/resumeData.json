@@ -56,7 +56,7 @@
     "skills": [
       {
         "name": "User research and user strategy",
-        "level": "100%"
+        "level": "80%"
       },
       {
         "name": "Wireframing",
@@ -68,14 +68,6 @@
       },
       {
         "name": "Prototyping",
-        "level": "100%"
-      },
-      {
-        "name": "UI Design",
-        "level": "100%"
-      },
-      {
-        "name": "Responsive Web Design",
         "level": "100%"
       },
       {
@@ -97,14 +89,6 @@
       {
         "name": "Adobe XD",
         "level": "100%"
-      },
-      {
-        "name": "Sketch",
-        "level": "100%"
-      },
-      {
-        "name": "Front-End Development",
-        "level": "80%"
       },
       {
         "name": "Angular",
