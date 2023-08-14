@@ -44,19 +44,13 @@
         "company": "Cync Software",
         "title": "UI/UX Engineer",
         "years": "Febuary 2022 - Present",
-        "description": "Keep abreast of industry trends and advancements, make a list of potential users, ensure digital user-specific experiences, use flowcharts, graphic designs, storyboards, and site maps, provide direction on UX research, defend against competitors, test user interface components, create and execute solutions, produce automated toolkits, and utilize metrics to determine viability of new projects. Regularly evaluate their own and team's work processes, produce design specifications, unit testing, and technical documentation, formulating and envisioning a thorough UI/UX design approach, creating UI components and tools, testing user interface (UI) components, working together to create and deliver custom digital user experiences, giving suggestions and direction for using UX research methodology and testing procedures, adhering to typographic and graphic design standards, developing and maintaining applications using JSX, React.JS, Micro-Frontend, React-router, Forms, Events, Keys, Router, and Jest. Involve yourself in all aspects of design, development, and testing daily. Test the responsiveness of the program for the end user."
+        "description": "Worked closely with product owners to establish requirements and create an AWS-based offering. Responsible for leading Designs for Collateral and Relationship, which enabled lenders to add, maintain, and pledge collateral for loans and guide decision-making for loss given default (LGD) risk ratings. The React.js design framework and style guide were used to maintain uniformity throughout the application. Microsoft Forms was used for user research surveys, and storyboards, user flows, and sitemaps were used to showcase design concepts. Scalable visual user interface elements were created, and high-fidelity wireframes were created using Adobe XD. User interface components like CTAs, layouts, target links, landing pages, and banner ads were rigorously tested.  Also created full stack solutions and continuous delivery frameworks to help financial lending software teams produce faster and higher-quality solutions. Extensive knowledge in developing and maintaining applications using JSX, React.JS, Micro-Frontend, HTML5, CSS3, JavaScript, and React.JS. Used react-router to convert the application into a Single Page Application, and had expertise with React components, Forms, Events, Keys, and Router.  Involved in all aspects of design, development, and testing daily."
       },
       {
         "company": "Bank of America ",
         "title": "UI/UX Engineer",
         "years": "April 2019 - Feburary 2022",
         "description": "Creating rapid prototypes to validate design concepts, leading/facilitating design activities and prototype workshops, talking to users and other stakeholders to gather needs, guiding conversations to develop and validate UI concepts and metaphors, working with front-end UI analysis, user/task analysis, and interviewing, using Adobe XD to build high-fidelity prototypes based on user demands and business objectives, working closely with development teams to make sure designs are technically feasible within authorized frameworks, and supporting the execution of UI concepts and design approaches."
-      },
-      {
-        "company": "TD Bank ",
-        "title": "Teller & Customer Service Representative (CSR)",
-        "years": "January 2014 - November 2018",
-        "description": "I was responsible for ensuring that client assets are protected by opening and closing accounts in compliance with established operational rules. They are also responsible for managing and maintaining client account information using the new accounts system database. The Tellers aggressively cross-sell new and existing items and services to present and future clients, and use marketing strategies to establish connections."
       }
     ],
     "skills": [
@@ -207,9 +201,9 @@
         "url": "https://split-landing-page-1.netlify.app"
       },
       {
-        "title": "Split Landing Page",
+        "title": "3D-Boxes-background",
         "category": "HTML, CSS, & JavaScript",
-        "image": "",
+        "image": "3D-Boxes-background.jpg",
         "url": "https://cosmic-croissant-d99135.netlify.app"
       }
     ]
