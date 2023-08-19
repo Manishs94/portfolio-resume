@@ -2,7 +2,7 @@
   "main": {
     "name": "Manish Sondhi",
     "occupation": "UI/UX Engineer",
-    "description": "I am a User Experience Designer and a Front-end Developer",
+    "description": "I am a UI/UX Engineer at CYNC Software",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Manish! I've worked with startup and large corperations to help build & scale their companies. Along the journey I realized my passion as becoming an UI/UX Engineer.",
     "contactmessage": "",
@@ -55,39 +55,23 @@
     ],
     "skills": [
       {
-        "name": "User research and user strategy",
-        "level": "80%"
-      },
-      {
-        "name": "Wireframing",
+        "name": "Prototyping, Wireframing, User Flows, and Mockups",
         "level": "100%"
       },
       {
-        "name": "User Testing",
+        "name": "Visual Design and Design Software",
         "level": "100%"
       },
       {
-        "name": "Prototyping",
+        "name": "User Research and Usability Testing",
+        "level": "100%"
+      },
+      {
+        "name": "Agile",
         "level": "100%"
       },
       {
         "name": "Information Architecture",
-        "level": "100%"
-      },
-      {
-        "name": "Interaction Design",
-        "level": "100%"
-      },
-      {
-        "name": "User Centred Design",
-        "level": "100%"
-      },
-      {
-        "name": "Figma",
-        "level": "100%"
-      },
-      {
-        "name": "Adobe XD",
         "level": "100%"
       },
       {
@@ -104,15 +88,15 @@
       },
       {
         "name": "JavaScript",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "HTML",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "80%"
       }
     ]
   },
