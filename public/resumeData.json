@@ -75,28 +75,24 @@
         "level": "100%"
       },
       {
-        "name": "Angular",
-        "level": "60%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "Angular",
-        "level": "50%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "70%"
-      },
-      {
         "name": "HTML",
         "level": "80%"
       },
       {
         "name": "CSS",
         "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
       }
     ]
   },
