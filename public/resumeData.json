@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Manish Sondhi",
-    "occupation": "UI/UX Engineer",
-    "description": "I am a UI/UX Engineer at CYNC Software",
+    "occupation": "UI/UX Designer",
+    "description": "I am a UI/UX Designer at CYNC Software",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Manish! I've worked with startup and large corperations to help build & scale their companies. Along the journey I realized my passion as becoming an UI/UX Engineer.",
     "contactmessage": "",
@@ -42,13 +42,13 @@
     "work": [
       {
         "company": "Cync Software",
-        "title": "UI/UX Engineer",
+        "title": "UI/UX Designer",
         "years": "Febuary 2022 - Present",
         "description": "Worked closely with product owners to establish requirements and create an AWS-based offering. Responsible for leading Designs for Collateral and Relationship, which enabled lenders to add, maintain, and pledge collateral for loans and guide decision-making for loss given default (LGD) risk ratings. The React.js design framework and style guide were used to maintain uniformity throughout the application. Microsoft Forms was used for user research surveys, and storyboards, user flows, and sitemaps were used to showcase design concepts. Scalable visual user interface elements were created, and high-fidelity wireframes were created using Adobe XD. User interface components like CTAs, layouts, target links, landing pages, and banner ads were rigorously tested.  Also created full stack solutions and continuous delivery frameworks to help financial lending software teams produce faster and higher-quality solutions. Extensive knowledge in developing and maintaining applications using JSX, React.JS, Micro-Frontend, HTML5, CSS3, JavaScript, and React.JS. Used react-router to convert the application into a Single Page Application, and had expertise with React components, Forms, Events, Keys, and Router.  Involved in all aspects of design, development, and testing daily."
       },
       {
         "company": "Bank of America ",
-        "title": "UI/UX Engineer",
+        "title": "UI/UX Designer",
         "years": "April 2019 - Feburary 2022",
         "description": "Creating rapid prototypes to validate design concepts, leading/facilitating design activities and prototype workshops, talking to users and other stakeholders to gather needs, guiding conversations to develop and validate UI concepts and metaphors, working with front-end UI analysis, user/task analysis, and interviewing, using Adobe XD to build high-fidelity prototypes based on user demands and business objectives, working closely with development teams to make sure designs are technically feasible within authorized frameworks, and supporting the execution of UI concepts and design approaches."
       }
