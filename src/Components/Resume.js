@@ -23,7 +23,7 @@ const Resume = ({ data }) => {
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <p><ul><li>{work.description}</li></ul></p>
+          <p>{work.description}</p>
         </div>
       );
     });
