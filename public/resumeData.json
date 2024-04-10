@@ -15,7 +15,7 @@
       "zip": "W3B D3V"
     },
     "website": "https://www.manishsondhi.com/",
-    "resumedownload": "Manish%20Sondhi%20Resume-Official.pdf",
+    "resumeDownload": "Manish_Sondhi_Resume_Official.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -37,6 +37,12 @@
         "degree": "Bachelor's Degree, Information Technology",
         "graduated": "May 2022",
         "description": "Graduated with a great learning experience in Information Technology"
+      },
+      {
+        "school": "Google Certification",
+        "degree": "Foundations of User Experience (UX) Design",
+        "graduated": "Feb 2023",
+        "description": "Certified in Foundations of User Experience (UX) Design from Google"
       }
     ],
     "work": [
