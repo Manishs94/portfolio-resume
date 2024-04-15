@@ -139,42 +139,6 @@
         "category": "React todo application",
         "image": "React-todo.png",
         "url": "https://todo-cda1b8.netlify.app/"
-      },
-      {
-        "title": "Expanding Cards",
-        "category": "HTML, CSS, & JavaScript",
-        "image": "expanding-cards.jpg",
-        "url": "https://expanding-cards-unique.netlify.app"
-      },
-      {
-        "title": "Rotating Nav Animation",
-        "category": "HTML, CSS, & JavaScript",
-        "image": "rotating-nav-animation.jpg",
-        "url": "https://rotating-nav-animation-1.netlify.app"
-      }, 
-      {
-        "title": "Hulu Design",
-        "category": "HTML, CSS, & JavaScript",
-        "image": "Hulu-Design.jpg",
-        "url": "https://hulu-project-1.netlify.app"
-      },
-      {
-        "title": "Netflix Mobile Navigation",
-        "category": "HTML, CSS, & JavaScript",
-        "image": "Netflix-Mobile-Navigation.jpg",
-        "url": "https://netflix-mobile-navigation-1.netlify.app"
-      },
-      {
-        "title": "Split Landing Page",
-        "category": "HTML, CSS, & JavaScript",
-        "image": "Split-Landing-Page.jpg",
-        "url": "https://split-landing-page-1.netlify.app"
-      },
-      {
-        "title": "3D-Boxes-background",
-        "category": "HTML, CSS, & JavaScript",
-        "image": "3D-Boxes-background.jpg",
-        "url": "https://cosmic-croissant-d99135.netlify.app"
       }
     ]
   },
