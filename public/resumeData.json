@@ -50,13 +50,19 @@
         "company": "Cync Software",
         "title": "UI/UX Designer",
         "years": "Febuary 2022 - Present",
-        "description": "Worked closely with product owners to establish requirements and create an AWS-based offering. Responsible for leading Designs for Collateral and Relationship, which enabled lenders to add, maintain, and pledge collateral for loans and guide decision-making for loss given default (LGD) risk ratings. The React.js design framework and style guide were used to maintain uniformity throughout the application. Microsoft Forms was used for user research surveys, and storyboards, user flows, and sitemaps were used to showcase design concepts. Scalable visual user interface elements were created, and high-fidelity wireframes were created using Adobe XD. User interface components like CTAs, layouts, target links, landing pages, and banner ads were rigorously tested.  Also created full stack solutions and continuous delivery frameworks to help financial lending software teams produce faster and higher-quality solutions. Extensive knowledge in developing and maintaining applications using JSX, React.JS, Micro-Frontend, HTML5, CSS3, JavaScript, and React.JS. Used react-router to convert the application into a Single Page Application, and had expertise with React components, Forms, Events, Keys, and Router.  Involved in all aspects of design, development, and testing daily."
+        "description": "Led design efforts to improve user experience and engagement for key application functions, including Collateral, Relationship, Stock, and Exposure. Created the field of human-centered design research using usability surveys and in-depth interviews. Promoted cooperative partnerships to align product concepts with corporate goals and user demands. Used Figma and Adobe XD for prototyping, performed extensive user testing, and implemented responsive design concepts for a consistent user experience across various platforms. Experience in developing and maintaining applications using JSX, React.JS, Micro-Frontend, HTML5, CSS3, JavaScript, React.JS, React-router, React components, Forms, Events, Keys, Router, Jest, and testing program responsiveness."
       },
       {
         "company": "Bank of America ",
         "title": "UI/UX Designer",
         "years": "April 2019 - Febuary 2022",
-        "description": "Creating rapid prototypes to validate design concepts, leading/facilitating design activities and prototype workshops, talking to users and other stakeholders to gather needs, guiding conversations to develop and validate UI concepts and metaphors, working with front-end UI analysis, user/task analysis, and interviewing, using Adobe XD to build high-fidelity prototypes based on user demands and business objectives, working closely with development teams to make sure designs are technically feasible within authorized frameworks, and supporting the execution of UI concepts and design approaches."
+        "description": "Proficient in creating rapid prototypes, leading design activities, and facilitating workshops. Gathered user needs, draw wireframes, and guide conversations to develop and validate UI concepts. Used Adobe XD to build high-fidelity prototypes, test them with users, and collaborate with development teams to ensure technical feasibility. Supported the execution of UI concepts and use advanced techniques to boost efficiency. Good understanding in developing applications using Angular 11 and Bootstrap, using Typescript, CSS3, and HTML5. Followed Agile methodologies and have experience in developing style sheets, Angular 11 Template Driven forms, Decorators, Routes, and implementing HTML5 features."
+      },
+      {
+        "company": "Freelance ",
+        "title": "UI/UX Designer",
+        "years": "November 2018 - April 2019",
+        "description": "Completed various coding courses, passed Adobe XD Essentials test, developed websites using JavaScript, HTML, CSS, Bootstrap, and Visual Studio Code, created responsive mobile and web apps, conducted research, and developed a portfolio and personal website."
       }
     ],
     "skills": [
