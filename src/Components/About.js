@@ -15,7 +15,7 @@ const About = ({ data }) => {
   }
 
     const resumeDownload = () => {
-      window.open('https://drive.google.com/file/d/1-ZOj34W8dqDzDekdUoR2gOIFKZNjBp2S/view?usp=sharing', '_blank', 'noopener,noreferrer');
+      window.open('https://drive.google.com/file/d/1-ZOj34W8dqDzDekdUoR2gOIFKZNjBp2S/view?usp=sharing');
     };
 
   return (
