@@ -14,7 +14,7 @@ const About = ({ data }) => {
     var resumeDownload = data.resumedownload;
   }
 
-    const resumeDownload = () => {
+    const handleClick = () => {
       window.open('https://drive.google.com/file/d/1-ZOj34W8dqDzDekdUoR2gOIFKZNjBp2S/view?usp=sharing');
     };
 
@@ -33,7 +33,7 @@ const About = ({ data }) => {
 
           <p>{bio}</p>
           <div className="row">
-            <div className="columns contact-details">y
+            <div className="columns contact-details">
               <h2>Contact Details</h2>
               <p className="address">
                 <span>{name}</span>
@@ -51,9 +51,9 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-                <a onClick={resumeDownload} className="button">
-                  <i className="fa fa-download"></i>Download Resume
-                </a>
+              <button onClick={handleClick} className="button">
+                <i className="fa fa-download"></i> Download Resume
+                </button>
               </p>
             </div>
           </div>

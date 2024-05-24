@@ -1,21 +1,21 @@
 {
   "main": {
     "name": "Manish Sondhi",
-    "occupation": "UI/UX Designer",
-    "description": "I am a UI/UX Designer at CYNC Software",
+    "occupation": "Product & UI/UX Designer",
+    "description": "I am a Product & UI/UX Designer at CYNC Software",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Manish! I've worked with startup and large corperations to help build & scale their companies. Along the journey I realized my passion as becoming an UI/UX Engineer.",
+    "bio": "Hi there! I am Manish! I'm a passionate Product & UX/UI designer with 5+ years of experience crafting user-centered experiences.  I leverage user research and usability testing to design intuitive and visually appealing interfaces for web and mobile applications. Skilled in wireframing, prototyping, and creating UI style guides, I ensure consistent brand experiences across platforms.",
     "contactmessage": "",
     "email": "ManishSondhi94@gmail.com",
     "phone": "609-816-5121",
     "address": {
       "street": "82 Theresa Court",
-      "city": "Galloway",
+      "city": "New Jersey",
       "state": "New Jersey",
       "zip": "08205"
     },
     "website": "https://www.manishsondhi.com/",
-    "resumeDownload": "https://drive.google.com/file/d/1-ZOj34W8dqDzDekdUoR2gOIFKZNjBp2S/view?usp=sharing",
+    "resumeDownload": "Manish Sondhi Resume",
     "social": [
       {
         "name": "linkedin",
