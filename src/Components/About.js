@@ -11,11 +11,10 @@ const About = ({ data }) => {
     var zip = data.address.zip;
     var phone = data.phone;
     var email = data.email;
-    var resumeDownload = data.resumedownload;
   }
 
     const handleClick = () => {
-      window.open('https://drive.google.com/file/d/1-ZOj34W8dqDzDekdUoR2gOIFKZNjBp2S/view?usp=sharing');
+      window.open('https://drive.google.com/file/d/1-ZOj34W8dqDzDekdUoR2gOIFKZNjBp2S/view');
     };
 
   return (
