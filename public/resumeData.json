@@ -39,10 +39,22 @@
         "description": "Graduated with a great learning experience in Information Technology"
       },
       {
-        "school": "Google Certification",
-        "degree": "Foundations of User Experience (UX) Design",
-        "graduated": "Feb 2023",
+        "school": "Foundations of User Experience (UX) Design",
+        "degree": "Google",
+        "graduated": "Febuary 2023",
         "description": "Certified in Foundations of User Experience (UX) Design from Google"
+      },
+      {
+        "school": "Start the UX Design Process: Empathize, Define, and Ideate",
+        "degree": "Google",
+        "graduated": "September 2024",
+        "description": "Certified in Start the UX Design Process: Empathize, Define, and Ideate from Google "
+      },
+      {
+        "school": "Build Wireframes and Low-Fidelity Prototypes",
+        "degree": "Google",
+        "graduated": "September 2024",
+        "description": "Certified in Build Wireframes and Low-Fidelity Prototypes from Google"
       }
     ],
     "work": [
