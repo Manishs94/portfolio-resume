@@ -35,41 +35,44 @@
       {
         "school": "Southern New Hampshire University",
         "degree": "Bachelor's Degree, Information Technology",
-        "graduated": "May 2022",
         "description": "Graduated with a great learning experience in Information Technology"
       },
       {
         "school": "Foundations of User Experience (UX) Design",
         "degree": "Google",
-        "graduated": "Febuary 2023",
         "description": "Certified in Foundations of User Experience (UX) Design from Google"
       },
       {
         "school": "Start the UX Design Process: Empathize, Define, and Ideate",
         "degree": "Google",
-        "graduated": "September 2024",
         "description": "Certified in Start the UX Design Process: Empathize, Define, and Ideate from Google "
       },
       {
         "school": "Build Wireframes and Low-Fidelity Prototypes",
         "degree": "Google",
-        "graduated": "September 2024",
         "description": "Certified in Build Wireframes and Low-Fidelity Prototypes from Google"
       }
     ],
     "work": [
       {
         "company": "Cync Software",
-        "title": "UI/UX Designer",
+        "title": "Senior UI/UX Designer",
         "years": "Febuary 2022 - Present",
-        "description": "Led design efforts to improve user experience and engagement for key application functions, including Collateral, Relationship, Stock, and Exposure. Created the field of human-centered design research using usability surveys and in-depth interviews. Promoted cooperative partnerships to align product concepts with corporate goals and user demands. Used Figma and Adobe XD for prototyping, performed extensive user testing, and implemented responsive design concepts for a consistent user experience across various platforms. Experience in developing and maintaining applications using JSX, React.JS, Micro-Frontend, HTML5, CSS3, JavaScript, React.JS, React-router, React components, Forms, Events, Keys, Router, Jest, and testing program responsiveness."
+        "description": "As a Senior UI/UX Designer, I have been instrumental in defining, designing, and optimizing user experiences for complex digital products. I work closely with C-level executives, product managers, and cross-functional teams to translate business requirements into intuitive and impactful user interfaces, leading to measurable improvements in user engagement and satisfaction. Strategic Design Leadership: Led the UX strategy for critical application features, simplifying complex processes like Collateral Relationship Stock and Exposure platforms, driving a 20% increase in user engagement. Human-Centered Design: Applied design thinking techniques, including journey mapping, personas, and user interviews, to identify user pain points and deliver streamlined, accessible, and responsive designs, improving usability by 30%. Data-Driven Decisions: Leveraged analytics and usability testing (A/B testing, focus groups) to inform design decisions and improve product features, resulting in a 15% increase in user satisfaction. Cross-Functional Collaboration: Regularly interfaced with developers to ensure technical feasibility, and collaborated with stakeholders to align designs with business objectives, reducing feature development cycles by 10%. Design Tools & Methodologies: Expert in Figma, Adobe XD, Jira, Confluence, and Miro. Proficient in UX methodologies such as wireframing, prototyping, journey mapping, and usability testing. By consistently focusing on both user needs and business goals, I’ve successfully improved the overall user experience and contributed to significant product enhancements."
       },
       {
         "company": "Bank of America ",
         "title": "UI/UX Designer",
-        "years": "April 2019 - Febuary 2022",
-        "description": "Proficient in creating rapid prototypes, leading design activities, and facilitating workshops. Gathered user needs, draw wireframes, and guide conversations to develop and validate UI concepts. Used Adobe XD to build high-fidelity prototypes, test them with users, and collaborate with development teams to ensure technical feasibility. Supported the execution of UI concepts and use advanced techniques to boost efficiency. Good understanding in developing applications using Angular 11 and Bootstrap, using Typescript, CSS3, and HTML5. Followed Agile methodologies and have experience in developing style sheets, Angular 11 Template Driven forms, Decorators, Routes, and implementing HTML5 features."
+        "years": "November 2018 - Febuary 2022",
+        "description": "As a UI/UX Designer, I led the design and development of key banking features, focusing on delivering user-centered solutions that drove measurable business outcomes. My expertise in user research, design thinking, and cross-functional collaboration allowed me to create seamless, responsive, and accessible experiences for both mobile and desktop platforms, resulting in significant user engagement and satisfaction improvements. Bill Payment Feature Success: Led the design of the bank’s mobile app Bill Payment feature, increasing user adoption by 25% and reducing drop-off rates during transactions through intuitive design improvements. User-Centric Research & Design: Conducted extensive user research (interviews, surveys, usability testing) to identify customer pain points, driving actionable design improvements that increased task completion rates by 15%. Cross-Platform Optimization: Designed responsive interfaces optimized for both mobile and desktop, ensuring a consistent and user-friendly experience across devices, improving usability metrics by 15%. Data-Driven Improvements: Utilized data analytics, heatmaps, and A/B testing to optimize UI elements and navigation, reducing user drop-off by 10% and improving overall engagement. Collaboration & Agile Methodology: Worked within an Agile framework, collaborating closely with product managers, developers, and stakeholders to align designs with technical feasibility and business goals, accelerating the release cycle by 10%. Accessibility Focus: Led accessibility testing to ensure WCAG compliance, broadening the app’s usability to users with disabilities and enhancing inclusivity. With deep expertise in UI/UX tools (Figma, Adobe XD, Sketch) and front-end development skills (HTML5, CSS3, JavaScript, Angular), I consistently delivered high-quality, user-centered design solutions that aligned with business objectives and enhanced the overall customer experience."
+      },
+      {
+        "company": "TD Bank ",
+        "title": "Junior UI/UX Designer",
+        "years": "April 2017 - November 2018",
+        "description": "As a Junior UI/UX Designer at TD Bank, I collaborated with senior designers and cross-functional teams to create user-centered designs for internal platforms and customer-facing applications. My contributions helped streamline user interactions and improve the overall banking experience, while I developed skills in both design and front-end development. Design Contributions: Assisted in creating wireframes, mockups, and prototypes for mobile apps, ATM interfaces, and online banking systems, improving user experience and increasing satisfaction by 10%. User-Centered Research: Participated in user research activities, including interviews, surveys, and usability testing, translating insights into actionable design solutions for product enhancements. Cross-Platform Design: Supported the implementation of responsive design principles, ensuring consistent user experiences across mobile, desktop, and tablet devices. Collaboration & Agile: Worked closely with front-end developers and product teams within Agile workflows to ensure alignment between design and development, reducing average task completion times by 15%. Impactful UX Enhancements: Helped redesign the ATM interface, reducing transaction errors by 12% and improving accessibility features for visually impaired users. Continuous Learning: Developed expertise in tools such as Sketch, Figma, and Adobe XD, while gaining hands-on experience in HTML, CSS, and JavaScript to create technically feasible design solutions. With a passion for creating intuitive, user-friendly interfaces, I continuously seek to expand my skills in UX best practices and human-centered design methodologies."
       }
+
     ],
     "skills": [
       {
