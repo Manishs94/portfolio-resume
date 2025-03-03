@@ -14,7 +14,7 @@ const About = ({ data }) => {
   }
 
     const handleClick = () => {
-      window.open('');
+      window.open('https://drive.google.com/file/d/1t_JvtBIaTgYOL3RZH_xeN9ojHUXfCUgr/view?usp=sharing');
     };
 
   return (
